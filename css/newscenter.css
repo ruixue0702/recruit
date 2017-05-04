@@ -1,0 +1,41 @@
+.index_banner{position:relative;height:470px;width:100%;}
+.index_banner ul{list-style: none;padding: 0px;}
+.index_banner li{position:absolute;width:100%;height:470px;}
+.index_banner li.third{background:url(../images/xwt.png) center top no-repeat;background-size:100% 100%;}
+.index_banner li.third h1{color: #fff;font-size: 60px;padding-top: 5px;text-align:center;padding-top: 190px;}
+.index_banner li a{display:block;margin:0 auto;height: auto;text-decoration: none;}
+.index_banner cite{position:absolute;bottom:20px;left:42%;z-index:8;display:block;width:230px;height:15px;}
+.index_banner cite span{float:left;display:block;margin:0 8px;width:40px;height:6px;background-color:#fff;text-indent:-999em;opacity:.8;cursor:pointer;}
+.index_banner cite span:hover{background-color:#00dfb9;}
+.index_banner cite span.cur{background-color:#00dfb9;cursor:default;}
+
+.nav{width: 1915px;height: 61px;background: #cccccc}
+.nav1{height: 60px;width: 1900px;padding-top: 18px;padding-left: 300px;}
+.nav1 b{font-size: 22px;letter-spacing:4px;}
+.szl{width: 1915px;height:110px;border-bottom: 1px solid #f8f8f8;}
+.szl1{width: 300px;height: 186px;margin: 0px auto;}
+.szl1 h3{font-size: 81px;color: #c8c8c8;}
+.szl1 p{font-size: 37px;color: #00dfb9;margin-left: 40px;margin-top: -120px;font-family: "黑体";}
+.dh{width: 1915px;height: 50px;padding-top: 44px;}
+.dh1{width: 1280px;margin: 0px auto;}
+.bh{border:1px solid #00dfb9;background: #fff;width: 120px;height: 32px;margin-left: 40px;font-size: 14px;color: #00dfb9;font-family: "黑体";}
+.bh:hover{background:#00dfb9;color: #fff;}
+.bh1{border:1px solid #00dfb9;background: #fff;width: 120px;height: 32px;margin-left: 10px;font-size: 14px;color: #00dfb9;font-family: "黑体";}
+.bh1:hover{background:#00dfb9;color: #fff;}
+.bh2{border:1px solid #00dfb9;background: #fff;width: 120px;height: 32px;margin-left: 10px;font-size: 14px;color: #00dfb9;font-family: "黑体";}
+.bh2:hover{background:#00dfb9;color: #fff;}
+.bh3{border:1px solid #00dfb9;background: #fff;width: 120px;height: 32px;margin-left:10px;font-size: 14px;color: #00dfb9;font-family: "黑体";}
+.bh3:hover{background:#00dfb9;color: #fff;}
+.bh4{border:1px solid #00dfb9;background: #fff;width: 120px;height: 32px;margin-left: 10px;font-size: 14px;color: #00dfb9;font-family: "黑体";}
+.bh4:hover{background:#00dfb9;color: #fff;}
+.xinwen{width: 1150px;height: 300px;margin: 0px auto;}
+.xinwen-1{width: 1150px;height: 300px;margin: 0px auto;margin-top: 10px;}
+.xinwen1{width: 260px;height: 250px;background: #7b7979;float: left;}
+.xinwen1 h1{color: #fff;font-size: 30px;padding-top: 65px;height: 50px;margin: 0px;text-align: right;margin-right: 28px;}
+.xinwen1 p{color: #fff;font-size: 13px;padding-top: 40px;margin: 5px;text-align: right;margin-right: 28px;padding-top: 95px;}
+.xinwen1 h2{color: #fff;font-size: 13px;margin: 0px;text-align: right;margin-right: 28px;}
+.xinwen1 h3{color: #fff;font-size: 13px;border-top: 1px solid #adadad;margin: 8px;text-align: right;margin-right: 3px;padding-right:25px; line-height: 23px;}
+.xinwen2{width: 880px; height: 250px;background: #f0f0f0;padding: 36px;float: left;text-align: right;}
+.xinwen2 p{height: 30px;margin: 0px;font-size: 21px;color: #00dfb9;margin: 0px auto;text-align: left;}
+.xinwen2 h3{height: 40px;font-size: 12px;color: #000;line-height:25px;height: 100px;width: 1100px;width: 800px;text-align: left;}
+.xinwen2 a{text-decoration: none;font-size: 12px;color: #00dfb9;}

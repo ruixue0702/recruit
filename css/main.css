@@ -1,0 +1,36 @@
+
+/*top*/
+.top{width: 100%;height: 108px;background: rgba(0,0,0,0.8);position: fixed;top: 0px;z-index: 100;left: 0px;}
+.box{width: 1280px;margin:0px auto;position: relative;}
+.right-nav{width: 74px;height: 392px;position: absolute;top:200px;right: 11px;z-index: 99;background: #3c3c3c;}
+.right-nav-list{border: #3c3c3c 1px solid;width: 100%;height: 347px;color: #737373;position:relative;overflow:hidden;}
+.right-nav .right-nav-center ul.right-nav-list-con{width:100%;height:918px; position:absolute;}
+.right-nav-up{width: 100%;height: 40px;text-align: center;line-height: 40px;font-size: 18px;background: #3c3c3c;position: absolute;z-index: 102;top: 0px;}
+.right-nav-center{width: 100%;height: 267px;overflow:hidden;}
+.right-nav-down{width: 100%;height: 40px;text-align: center;line-height: 40px;font-size: 18px;background: #3c3c3c;position: absolute;z-index: 102;top: 306px;}
+.right-nav-close{width: 100%;height: 45px;background: #bcbcbc;text-align: center;line-height: 45px;font-size: 12px;color: #737373;}
+.right-nav-center ul{list-style: none;padding: 0px;margin-top: 40px;}
+.right-nav-center img{width:70px;height: 89px;display: block;margin: 0px auto;}
+.top img.logo{width: 120px;height: auto;margin-top: 10px;}
+.top div.top-nav-center{margin-left: 170px;list-style: none;height: 108px;}
+.top div.top-nav-center div.top-nav-con{height: 108px;line-height: 108px;padding-left: 15px;padding-right: 15px;float: left}
+.top div.top-nav-center div.top-nav-con a{font-size: 22px;color: #a1a1a1;text-align: center;}
+.top div.top-nav-center div.top-nav-con a:hover{text-decoration: none;}
+.top div.top-nav-center div.top-nav-con:hover{border-top: #00dfb9 6px solid;line-height: 98px;}
+.top div.top-nav-center div.top-nav-con:hover>a{color: #00dfb9;}
+.tell400{color: #00dfb9;font-size: 18px;height: 108px;line-height: 108px;margin-right: 40px;}
+/*top结束*/
+/*footer*/
+.footer{width: 100%;height: 270px;padding: 35px;background: #474747;}
+.footer-col-1{margin-left: 145px;width: 200px;height: 200px;}
+.footer-col-2{margin-left: 15px;width: 200px;height: 200px;}
+.footer-col-3{margin-left: 65px;width: 200px;height: 200px;}
+.footer-col-4{margin-left: 135px;width: 200px;height: 200px;}
+.footer-title{color: #fff;font-size: 16px;font-weight: bold;}
+
+.footer ul{list-style: none;padding: 0px;margin-top: 10px;}
+.footer ul li{height: 40px;line-height: 40px;color: #b4b4b4;font-size: 12px;}
+.footer img{width: 165px;height: 165px;background: #fff;text-align: center;line-height: 165px;}
+.co{height: 35px;line-height: 35px;text-align: center;}
+.co span{margin-left: 20px;color: #b4b4b4;}
+/*footer结束*/

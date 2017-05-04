@@ -1,0 +1,79 @@
+
+/*联系我们*/
+.header-contactus{height: 473px;font-family: "微软雅黑";overflow: hidden;position: relative;background: #545454;}
+.nav-contactus{height: 65px;font-family: "微软雅黑";background: #ccc;line-height: 65px;font-size: 22px;color: #000;}
+.header-contactus img.bg{width: 1920px;margin-left: -50px;margin: 0px auto;display: block;}
+.content-contact{height: 125px;font-family: "微软雅黑";}
+.content-contactus{height: 1493px;font-family: "微软雅黑";}
+/*about-us*/
+.content-aboutus{height: 1617px;font-family: "微软雅黑";}
+.content-aboutus-why{height: 300px;padding: 60px 30px 0px 77px;font-family: "微软雅黑";}
+.content-aboutus-con{height: 615px;font-family: "微软雅黑";padding-left: 130px;padding-right: 130px;}
+.content-aboutus-time{height: 637px;font-family: "微软雅黑";position: relative;}
+/*about-us结束*/
+
+/*案例*/
+.content-case-nav{height: 120px;font-family: "微软雅黑";}
+.content-case-con{height: 2540px;font-family: "微软雅黑";}
+/*案例结束*/
+
+/*招募*/
+.header-recruit{height: 923px;font-family: "微软雅黑";}
+.header-recruit2{height: 823px;font-family: "微软雅黑";}
+.content-recruit-play{height: 496px;font-family: "微软雅黑";}
+.content-recruit-best{height: 620px;font-family: "微软雅黑";}
+.content-recruit-work{height: 390px;font-family: "微软雅黑";}
+.content-recruit-pace{height: 385px;font-family: "微软雅黑";}
+.content-recruit-contract{height: 510px;font-family: "微软雅黑";}
+/*招募结束*/
+
+/*contact us*/
+.content-contact .sx{width: 1280px;height:110px;border-bottom: 1px solid #cfcfcf;}
+.content-contact .sx1{width: 100%;height: 186px;text-align: center;}
+.content-contact .sx1 h3{font-size: 81px;color: #c8c8c8;}
+.content-contact .sx1 p{font-size: 37px;color: #00dfb9;margin-top: -62px;}
+@charset "utf-8";
+body {font-family:arial;font-size:12px;background:#f6f7f0;margin:0;padding:0;}
+.content-contactus-con {width:1280px;height:900px;position:relative;top:100px;padding: 0px;}
+/* HEXAGON STARTS HERE */
+.hex {width:230px;height:133px;background-color:#ccc;position:relative;float:left;margin:40px 10px;text-align:center;zoom:1;transition:all 0.5s ease-in-out;-moz-transition:all 0.5s ease-in-out;-o-transition:all 0.5s ease-in-out;-moz-transition:all 0.5s ease-in-out;-webkit-transition:all 0.5s ease-in-out;}
+.hex.hex-gap {margin-left:137px;}
+.hex a {display:block;width:100%;height:100%;text-indent:-9999em;position:absolute;top:0;left:0;}
+.hex .corner-1,  .hex .corner-2 ,.hex .corner-0{position:absolute;top:0;left:0;width:100%;height:100%;background:inherit;z-index:-2;overflow:hidden;-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;-o-backface-visibility:hidden;backface-visibility:hidden;}
+.hex .corner-1 {z-index:-1;-webkit-transform:rotate(60deg);-moz-transform:rotate(60deg);-ms-transform:rotate(60deg);-o-transform:rotate(60deg);transform:rotate(60deg);}
+.hex .corner-2 {-webkit-transform:rotate(-60deg);-moz-transform:rotate(-60deg);-ms-transform:rotate(-60deg);-o-transform:rotate(-60deg);transform:rotate(-60deg);}
+.hex .corner-3{position: absolute;z-index: 55 ;top: -68px ;left: 0px;width: 235px;height: 270px;}
+/*contact us结束*/
+
+
+/*about us*/
+.aboutus-header-word{width: 100%;height: 473px;position: absolute;z-index: 3;top: 0px ;left: 0px;color: #fff;line-height: 580px;text-align: center;font-size: 60px;}
+.content-contact .content-aboutus-title .sx{width: 1280px;height:110px;border-bottom: 1px solid #cfcfcf;}
+.content-contact .content-aboutus-title .sx1{width: 100%;height: 186px;text-align: center;}
+.content-contact .content-aboutus-title .sx1 h3{font-size: 81px;color: #c8c8c8;}
+.content-contact .content-aboutus-title .sx1 p{font-size: 37px;color: #00dfb9;margin-top: -62px;}
+.content-aboutus-why-title{height: 88px;width: 100%;text-align: center;}
+.content-aboutus-why-title1{line-height:34px;font-size: 28px;color: #000  ;}
+.content-aboutus-why-title2{line-height:38px;font-size: 14px;color: #3c3c3c  ;}
+.content-aboutus-why-con{width: 100%;height: 106px;overflow: hidden;}
+.aboutus-why-con-list-img{width: 106px;height: 106px;background: #b1b1b1;}
+.aboutus-why-con-list-right{width: 285px;height: 106px;padding:3px 40px 0px 20px; }
+.aboutus-why-con-list-right-title{font-size: 23px;line-height: 43px;color: #000 ;}
+.aboutus-why-con-list-right-con{font-size: 12px;line-height: 22px;color: #646464 ;}
+.content-aboutus-con-title{line-height: 130px;font-size: 28px;color: #000 ;text-align: center;}
+.content-aboutus-con-con{line-height: 40px;font-size: 14px;color: #3c3c3c ;padding-left:70px;padding-right: 70px;height:405px;overflow: hidden;}
+.content-aboutus-time{font-size: 29px;color: #000 ;line-height: 126px;font-weight: bold;}
+span.content-aboutus-time-count{font-size: 44px;color: #faa900 ;margin-left: 10px;margin-right: 15px;font-style:italic;}
+.content-aboutus-time-left.text-right{margin-right: 40px;width: 600px;}
+.content-aboutus-time-left.text-left{margin-left: 40px;width: 600px;}
+.content-aboutus-time-bg1{position: absolute;z-index: 5;top: 10px;left:639px;}
+.content-aboutus-time-bg2{position: absolute;z-index: 8;top: 10px;left:624px;}
+.content-aboutus-time-bg1 hr{width: 2px;height: 486px;margin: 0px auto;background: #787878;background: linear-gradient(to bottom, rgba(120,120,120,0.3) 0%, rgba(120,120,120,0.8) 10%, rgba(120,120,120,1) 11%, rgba(120,120,120,1) 89%, rgba(120,120,120,0.6) 90%,rgba(120,120,120,0) 100%);}
+.content-aboutus-time-bg2 div.img-circle{width: 32px;height: 32px;background: #fff;border: #b1b1b1 7px solid;margin: 0px auto;margin-top: 110px;}
+.content-aboutus-time-bg2 div.img-circle:nth-child(1){margin-top: 53px;}
+.content-aboutus-time-bg2 div.img-circle:nth-child(2),.content-aboutus-time-bg2 div.img-circle:nth-child(3){margin-top: 110px;}
+.hex .corner-4{position: absolute;z-index: 56 ;top: 0px ;left: 0px;width: 235px;height: 270px;padding-top: 4px;padding-left: 35px;line-height: 40px;font-size: 21px;color: #fff;text-align: left;}
+.hex .corner-4.corner-5{color:#3c3c3c;}
+.content-contactus-title{color: #000  ;font-size: 22px;line-height: 50px;text-align: center;width: 200px;border-top: #c1c1c1 1px solid;margin: 0px auto;}
+.content-contactus-p{color: #646464  ;font-size: 22px;line-height: 50px;text-align: center;}
+/*about us结束*/
